@@ -1,6 +1,10 @@
 # Power BI temporary files
 *.pbix.tmp
 
+# PowerPoint temporary files
+~$*.pptx
+~$*.ppt
+
 # Data files (uncomment if files are too large)
 # *.csv
 # *.zip

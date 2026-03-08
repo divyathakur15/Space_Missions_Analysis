@@ -1,6 +1,21 @@
 # 🚀 Space Missions Analysis
 
-A comprehensive data analytics project analyzing global space missions from multiple space agencies including NASA, ESA, ISRO, CNSA, JAXA, and Roscosmos. This project includes end-to-end data cleaning, exploratory data analysis, and interactive Power BI dashboards.
+A comprehensive data analytics project analyzing global space missions from multiple space## 📊 Project Presentation
+
+### 🌐 View Online (Recommended)
+**[View Presentation on Google Slides](https://docs.google.com/presentation/d/1vFQ6J5fIqlaxriOZt9qaZha942pFDHlqsYAA8Ud7uy0/edit?usp=drivesdk)**
+
+### 📄 Download Options
+- **[Download PDF Version](Space%20Analysis%20Presentation/Space_Mission_Analysis_Dashboards.pdf)**
+- **[Download PowerPoint Version](Space%20Analysis%20Presentation/Space_Mission_Analysis_Dashboards.pptx)**
+
+The presentation provides a comprehensive overview of the project, including:
+- Project objectives and methodology
+- Data analysis insights
+- Dashboard walkthroughs
+- Key findings and recommendations
+
+> 💡 **Tip**: Click the Google Slides link above for the best viewing experience directly in your browser!ncluding NASA, ESA, ISRO, CNSA, JAXA, and Roscosmos. This project includes end-to-end data cleaning, exploratory data analysis, and interactive Power BI dashboards.
 
 ## 📊 Project Overview
 
