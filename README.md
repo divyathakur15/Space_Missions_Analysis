@@ -1,6 +1,6 @@
 # 🚀 Space Missions Analysis
 
-A comprehensive data analytics project analyzing global space missions from multiple space## 📊 Project Presentati## 📸 Dashboard Previews
+A comprehensive data analytics project analyzing global space missions from multiple space 📊 Project Presentation 📸 Dashboard Previews
 
 ![Front Page](dashboard_images/Front%20Page%20Space%20Mission%20Analysis.PNG)
 
