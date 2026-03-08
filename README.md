@@ -5,9 +5,8 @@ A comprehensive data analytics project analyzing global space missions from mult
 ### 🌐 View Online (Recommended)
 **[View Presentation on Google Slides](https://docs.google.com/presentation/d/1vFQ6J5fIqlaxriOZt9qaZha942pFDHlqsYAA8Ud7uy0/edit?usp=drivesdk)**
 
-### 📄 Download Options
-- **[Download PDF Version](Space%20Analysis%20Presentation/Space_Mission_Analysis_Dashboards.pdf)**
-- **[Download PowerPoint Version](Space%20Analysis%20Presentation/Space_Mission_Analysis_Dashboards.pptx)**
+### 📄 Download PDF
+**[Download PDF Version](Space%20Analysis%20Presentation/Space_Mission_Analysis_Dashboards.pdf)**
 
 The presentation provides a comprehensive overview of the project, including:
 - Project objectives and methodology
@@ -49,8 +48,7 @@ Space_Missions_Analysis/
 │   └── Space Analytics Dashboards.pbix
 │
 ├── Space Analysis Presentation/      # Project presentation
-│   ├── Space_Mission_Analysis_Dashboards.pdf   # PDF version (viewable on GitHub)
-│   └── Space_Mission_Analysis_Dashboards.pptx  # PowerPoint version
+│   └── Space_Mission_Analysis_Dashboards.pdf   # PDF version (viewable on GitHub)
 │
 └── images/                           # Visual assets
     └── dashboard_screenshots/        # Dashboard preview images
