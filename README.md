@@ -33,14 +33,17 @@ Space_Missions_Analysis/
 ├── dashboards/                       # Power BI dashboard files
 │   └── Space Analytics Dashboards.pbix
 │
+├── Space Analysis Presentation/      # Project presentation
+│   └── Space_Mission_Analysis_Dashboards.pptx
+│
 └── images/                           # Visual assets
     └── dashboard_screenshots/        # Dashboard preview images
         ├── Front Page Space Mission Analysis.PNG
         ├── Executive Dashboard.PNG
-        ├── Country & Agency Analysis.PNG
         ├── History & Trends Analysis.PNG
-        ├── Missions & Orbital Analysis.PNG
-        └── Rocket & launch Site Analysis.PNG
+        ├── Country & Agency Analysis.PNG
+        ├── Rocket & launch Site Analysis.PNG
+        └── Missions & Orbital Analysis.PNG
 ```
 
 ## 🎯 Key Features
