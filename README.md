@@ -34,16 +34,13 @@ Space_Missions_Analysis/
 │   └── Space Analytics Dashboards.pbix
 │
 └── images/                           # Visual assets
-    ├── dashboard_screenshots/        # Dashboard preview images
-    │   ├── Front Page Space Mission Analysis.PNG
-    │   ├── Executive Dashboard.PNG
-    │   ├── Country & Agency Analysis.PNG
-    │   ├── History & Trends Analysis.PNG
-    │   ├── Missions & Orbital Analysis.PNG
-    │   └── Rocket & launch Site Analysis.PNG
-    │
-    └── space_visuals/                # Space-themed images and graphics
-        └── [24 space-themed images]
+    └── dashboard_screenshots/        # Dashboard preview images
+        ├── Front Page Space Mission Analysis.PNG
+        ├── Executive Dashboard.PNG
+        ├── Country & Agency Analysis.PNG
+        ├── History & Trends Analysis.PNG
+        ├── Missions & Orbital Analysis.PNG
+        └── Rocket & launch Site Analysis.PNG
 ```
 
 ## 🎯 Key Features

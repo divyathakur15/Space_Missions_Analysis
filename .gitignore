@@ -5,6 +5,9 @@
 # *.csv
 # *.zip
 
+# Space visual images (not needed in repo)
+images/space_visuals/
+
 # OS generated files
 .DS_Store
 .DS_Store?
