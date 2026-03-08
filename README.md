@@ -34,7 +34,8 @@ Space_Missions_Analysis/
 │   └── Space Analytics Dashboards.pbix
 │
 ├── Space Analysis Presentation/      # Project presentation
-│   └── Space_Mission_Analysis_Dashboards.pptx
+│   ├── Space_Mission_Analysis_Dashboards.pdf   # PDF version (viewable on GitHub)
+│   └── Space_Mission_Analysis_Dashboards.pptx  # PowerPoint version
 │
 └── images/                           # Visual assets
     └── dashboard_screenshots/        # Dashboard preview images
@@ -119,7 +120,19 @@ The project analyzes space missions from:
    - Refresh data connections if needed
    - Explore the interactive dashboards
 
-## 📸 Dashboard Previews
+## � Project Presentation
+
+📄 **[View Project Presentation (PDF)](Space%20Analysis%20Presentation/Space_Mission_Analysis_Dashboards.pdf)**
+
+The presentation provides a comprehensive overview of the project, including:
+- Project objectives and methodology
+- Data analysis insights
+- Dashboard walkthroughs
+- Key findings and recommendations
+
+> 💡 Click the link above to view the presentation directly in your browser or download it.
+
+## �📸 Dashboard Previews
 
 ![Front Page](images/dashboard_screenshots/Front%20Page%20Space%20Mission%20Analysis.PNG)
 
