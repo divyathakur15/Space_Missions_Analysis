@@ -182,7 +182,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Your analysis of space missions data 🛸
+**Divya Thakur**
+- GitHub: [@divyathakur15](https://github.com/divyathakur15)
+- Repository: [Space_Missions_Analysis](https://github.com/divyathakur15/Space_Missions_Analysis)
 
 ## 🌟 Acknowledgments
 
