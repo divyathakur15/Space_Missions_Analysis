@@ -9,9 +9,12 @@ This project analyzes historical space mission data to uncover insights about la
 ## 🗂️ Project Structure
 
 ```
-SAPCE ANALYTICS PROJECT/
+Space_Missions_Analysis/
 │
-├── DATASET/                          # Raw and cleaned datasets
+├── README.md                         # Project documentation
+├── .gitignore                        # Git ignore file
+│
+├── data/                             # Raw and cleaned datasets
 │   ├── MASTER_CLEANED_FINAL.csv     # Consolidated cleaned dataset
 │   ├── USA_Space_Missions_CLEANED.csv
 │   ├── Russia_USSR_Space_Missions_CLEANED.csv
@@ -19,23 +22,28 @@ SAPCE ANALYTICS PROJECT/
 │   ├── Europe_ESA_Space_Missions_CLEANED.csv
 │   ├── India_ISRO_Space_Missions_CLEANED.csv
 │   ├── Japan_JAXA_Space_Missions_CLEANED.csv
-│   └── Other_Countries_Space_Missions_CLEANED.csv
+│   ├── Other_Countries_Space_Missions_CLEANED.csv
+│   └── files.zip
 │
-├── SQL FILE/                         # SQL scripts for analysis
+├── sql/                              # SQL scripts for analysis
 │   ├── SAPCE ANALYSIS DATA CLEANING.sql
 │   ├── SPACE ANALYSIS EDA.sql
 │   └── SPACE ANALYSIS VIEWS.sql
 │
-├── PowerBi Dashboard/                # Power BI dashboard files
+├── dashboards/                       # Power BI dashboard files
 │   └── Space Analytics Dashboards.pbix
 │
-└── DASHBAORD IMAGES/                 # Dashboard screenshots
-    ├── Front Page Space Mission Analysis.PNG
-    ├── Executive Dashboard.PNG
-    ├── Country & Agency Analysis.PNG
-    ├── History & Trends Analysis.PNG
-    ├── Missions & Orbital Analysis.PNG
-    └── Rocket & launch Site Analysis.PNG
+└── images/                           # Visual assets
+    ├── dashboard_screenshots/        # Dashboard preview images
+    │   ├── Front Page Space Mission Analysis.PNG
+    │   ├── Executive Dashboard.PNG
+    │   ├── Country & Agency Analysis.PNG
+    │   ├── History & Trends Analysis.PNG
+    │   ├── Missions & Orbital Analysis.PNG
+    │   └── Rocket & launch Site Analysis.PNG
+    │
+    └── space_visuals/                # Space-themed images and graphics
+        └── [24 space-themed images]
 ```
 
 ## 🎯 Key Features
@@ -92,28 +100,36 @@ The project analyzes space missions from:
 
 ### Setup Instructions
 
-1. **Database Setup**
-   - Import the cleaned datasets from the [DATASET](../DATASET) folder
-   - Run [SAPCE ANALYSIS DATA CLEANING.sql](../SQL%20FILE/SAPCE%20ANALYSIS%20DATA%20CLEANING.sql) for data preparation
-   - Execute [SPACE ANALYSIS VIEWS.sql](../SQL%20FILE/SPACE%20ANALYSIS%20VIEWS.sql) to create necessary views
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/divyathakur15/Space_Missions_Analysis.git
+   cd Space_Missions_Analysis
+   ```
 
-2. **Exploratory Analysis**
-   - Run [SPACE ANALYSIS EDA.sql](../SQL%20FILE/SPACE%20ANALYSIS%20EDA.sql) to generate insights
+2. **Database Setup**
+   - Import the cleaned datasets from the `data/` folder
+   - Run `sql/SAPCE ANALYSIS DATA CLEANING.sql` for data preparation
+   - Execute `sql/SPACE ANALYSIS VIEWS.sql` to create necessary views
 
-3. **Dashboard Access**
-   - Open [Space Analytics Dashboards.pbix](../PowerBi%20Dashboard/Space%20Analytics%20Dashboards.pbix) in Power BI Desktop
+3. **Exploratory Analysis**
+   - Run `sql/SPACE ANALYSIS EDA.sql` to generate insights
+
+4. **Dashboard Access**
+   - Open `dashboards/Space Analytics Dashboards.pbix` in Power BI Desktop
    - Refresh data connections if needed
    - Explore the interactive dashboards
 
 ## 📸 Dashboard Previews
 
-View dashboard screenshots in the [DASHBAORD IMAGES](../DASHBAORD%20IMAGES) folder:
-- [Front Page](../DASHBAORD%20IMAGES/Front%20Page%20Space%20Mission%20Analysis.PNG)
-- [Executive Dashboard](../DASHBAORD%20IMAGES/Executive%20Dashboard.PNG)
-- [Country & Agency Analysis](../DASHBAORD%20IMAGES/Country%20&%20Agency%20Analysis.PNG)
-- [History & Trends](../DASHBAORD%20IMAGES/History%20&%20Trends%20Analysis.PNG)
-- [Missions & Orbital Analysis](../DASHBAORD%20IMAGES/Missions%20&%20Orbital%20Analysis.PNG)
-- [Rocket & Launch Site Analysis](../DASHBAORD%20IMAGES/Rocket%20&%20launch%20Site%20Analysis.PNG)
+![Front Page](images/dashboard_screenshots/Front%20Page%20Space%20Mission%20Analysis.PNG)
+
+### All Dashboard Pages:
+- [Front Page](images/dashboard_screenshots/Front%20Page%20Space%20Mission%20Analysis.PNG)
+- [Executive Dashboard](images/dashboard_screenshots/Executive%20Dashboard.PNG)
+- [Country & Agency Analysis](images/dashboard_screenshots/Country%20&%20Agency%20Analysis.PNG)
+- [History & Trends Analysis](images/dashboard_screenshots/History%20&%20Trends%20Analysis.PNG)
+- [Missions & Orbital Analysis](images/dashboard_screenshots/Missions%20&%20Orbital%20Analysis.PNG)
+- [Rocket & Launch Site Analysis](images/dashboard_screenshots/Rocket%20&%20launch%20Site%20Analysis.PNG)
 
 ## 📊 Key Insights
 
