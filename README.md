@@ -1,8 +1,16 @@
 # 🚀 Space Missions Analysis
 
-A comprehensive data analytics project analyzing global space missions from multiple space## 📊 Project Presentation
+A comprehensive data analytics project analyzing global space missions from multiple space## 📊 Project Presentati## 📸 Dashboard Previews
 
-### 🌐 View Online (Recommended)
+![Front Page](dashboard_images/Front%20Page%20Space%20Mission%20Analysis.PNG)
+
+### All Dashboard Pages:
+- [Front Page](dashboard_images/Front%20Page%20Space%20Mission%20Analysis.PNG)
+- [Executive Dashboard](dashboard_images/Executive%20Dashboard.PNG)
+- [History & Trends Analysis](dashboard_images/History%20&%20Trends%20Analysis.PNG)
+- [Country & Agency Analysis](dashboard_images/Country%20&%20Agency%20Analysis.PNG)
+- [Rocket & Launch Site Analysis](dashboard_images/Rocket%20&%20launch%20Site%20Analysis.PNG)
+- [Missions & Orbital Analysis](dashboard_images/Missions%20&%20Orbital%20Analysis.PNG) View Online (Recommended)
 **[View Presentation on Google Slides](https://docs.google.com/presentation/d/1vFQ6J5fIqlaxriOZt9qaZha942pFDHlqsYAA8Ud7uy0/edit?usp=drivesdk)**
 
 ### 📄 Download PDF
@@ -47,17 +55,16 @@ Space_Missions_Analysis/
 ├── dashboards/                       # Power BI dashboard files
 │   └── Space Analytics Dashboards.pbix
 │
-├── Space Analysis Presentation/      # Project presentation
-│   └── Space_Mission_Analysis_Dashboards.pdf   # PDF version (viewable on GitHub)
+├── dashboard_images/                 # Dashboard preview screenshots
+│   ├── Front Page Space Mission Analysis.PNG
+│   ├── Executive Dashboard.PNG
+│   ├── History & Trends Analysis.PNG
+│   ├── Country & Agency Analysis.PNG
+│   ├── Rocket & launch Site Analysis.PNG
+│   └── Missions & Orbital Analysis.PNG
 │
-└── images/                           # Visual assets
-    └── dashboard_screenshots/        # Dashboard preview images
-        ├── Front Page Space Mission Analysis.PNG
-        ├── Executive Dashboard.PNG
-        ├── History & Trends Analysis.PNG
-        ├── Country & Agency Analysis.PNG
-        ├── Rocket & launch Site Analysis.PNG
-        └── Missions & Orbital Analysis.PNG
+└── Space Analysis Presentation/      # Project presentation
+    └── Space_Mission_Analysis_Dashboards.pdf
 ```
 
 ## 🎯 Key Features
